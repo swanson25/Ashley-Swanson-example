@@ -1,5 +1,5 @@
 # Ashley-Swanson-example
-Pedagogical example from Econ 570
+Pedagogical example for UW-Madison Data Analytics class
 
 ## This is subsection 1
 
